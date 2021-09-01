@@ -18,7 +18,7 @@ The result ought to include a file named thoreau.zip which can be submitted to t
    
    3. When you dataset is finished building, download the whole of the dataset, not just the sampled data. The result ought to be a file with a long, ugly-looking name with a ``.jsonl`` file extension.
    
-   4. As per above, use ``constellate2reader.py`` where the first argument is the name of the ``.jsonl`` file, and the second argument is the name of a directory where the full texts (and their associated metadata.csv file) will be saved.
+   4. As per above, use ``constellate2reader.py`` where the first argument is the name of the ``.jsonl`` file, and the second argument is the name of a directory where the full texts (and their associated metadata.csv file) are to be saved.
    
    5. The result ought to be a ``.zip`` file, and you can use it as input to the Reader.
 
