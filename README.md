@@ -6,7 +6,7 @@ The Python script in this distribution reads JSTOR Constellate JSONL files, and 
 
    ``python constellate2reader.py thoreau.jsonl thoreau``
 
-The result ought to include a filfe named thoreau.zip which can be submitted to the (Distant Reader)[https://distantreader.org]
+The result ought to include a filfe named thoreau.zip which can be submitted to the [Distant Reader](https://distantreader.org)
 
 ---
 Eric Lease Morgan &lt;emorgan@nd.edu&gt;  
