@@ -24,7 +24,7 @@ The result ought to include a file named thoreau.zip which can be submitted to t
 
 ## Discussion
 
-The purpose of this script is build upon -- not replace -- the good work of Constellate. Given a corpus, a system called the Distant Reader is capabile of extracting parts-of-speech, named-entities, noun phrases, and even sentences matching a select number of grammars from a text. These sorts of things are not possible sans full text. Within the limitations of JSTOR's license agreements, some full texts are available. The script ``constellate2reader.py`` takes advantage of this fact and enables the student, researcher, or scholar to create a corpus of full text, and use the Reader to go another level when it comes to reading a body of literature.
+The purpose of this script is build upon -- not replace -- the good work of Constellate. Given a corpus, a system called the Distant Reader is capabile of extracting parts-of-speech, named-entities, noun phrases, and even sentences matching a select number of grammars from a text. These sorts of things are not possible sans full text. Within the limitations of JSTOR's license agreements, some full texts are available. The script ``constellate2reader.py`` takes advantage of this fact and enables the student, researcher, or scholar to create a corpus of full text, and use the Reader to go to another level when it comes to reading a body of literature.
 
 This distribution was written in a fit of creativity, which happens to me often. I'm sure there are some errors. When you find them, please bring them to my attention.
 
